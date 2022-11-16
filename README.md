@@ -1,4 +1,4 @@
-# One-Page-WebsiteHMTLCSS
+# one-page-website-html-css
 Simple one page website using HTML and CSS
 
 Preview:
